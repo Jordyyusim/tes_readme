@@ -14,3 +14,17 @@ __ini bold__
 __*italic bold*__
 
 _**italic bold**_
+
+daftar belanja :
+- beras
+- gula
+- indomie :
+    - goreng 
+    - kari
+
+belanja :
+1. Beras
+2. Bawang
+3. Indomie :
+    1. Goreng
+    2. Soto
